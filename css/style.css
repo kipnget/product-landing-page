@@ -31,18 +31,7 @@
     background-color: rgb(255, 255, 255);
     overflow: hidden;
   }
-  /*
-  @media only screen and (max-width:600px){
-  #nav-bar ul {
-    display: flex;
-  }
-  #nav-bar ul li {
-    padding: 1rem 2rem;
-  }
-  #nav-bar ul li a {
-    color: #333;
-    font-size: 1.2rem;
-  }     } */
+  
   
   /* UTILITY CLASSES */
   #container {
@@ -181,15 +170,7 @@
     margin: 1rem;
   }
   
-  /* FOOTER */
-  #main-footer {
-    background-color: #ccc;
-    padding: 1rem 4rem;
-    margin-top: 2rem;
-    display: flex;
-    justify-content: space-between;
-    overflow: hidden;
-  }
+  
   
   #main-footer div a {
     color: #333;
